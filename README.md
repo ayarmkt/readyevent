@@ -1,9 +1,7 @@
 # readyevent
 
 ## Overview
-Friends can put in when they are available for a meetup/party (Basically like when2meet). They can also have a shared grocery list that is for BBQ/Birthday party.
-Furthermore, everyone can enter who buys/brings what, so you don't end up with too much or too little stuff.
-
+readyevent is an event scheduling app that allows users to check the availability of the participants and to create a to-do list.
 LIVE LINK: https://readyevent.herokuapp.com/
 
 ## Tech/framework used
@@ -38,6 +36,8 @@ A part of the todo list are shown in the events details. Click on "..." on the t
 ### Availability Vote and Setting Date
 Check participants' available time on this page. Enter your available time and view the voting results. Also set the final time here based on everyone's availability. 
 ![availability](https://user-images.githubusercontent.com/82935527/142187105-f3fa1c65-e6da-4c9e-adff-753c993cd06c.png)
+![availability 2](https://user-images.githubusercontent.com/82935527/156774392-b163e1e1-6335-4a7a-af61-71a19ab47fcf.png)
+
 
 ### Share Event Info on Google Calendar
 You can share event info from by clicking on the share icon on the event details page.
